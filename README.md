@@ -1,7 +1,7 @@
 # Brick-Breaker Game - A desktop game developed in C++ using OpenGL (2024)
 **Main Window**
 
-![main window](images/main.jpg)
+<img src="images/main.jpg" alt="main window" width="1081">
 
 **Game Over Window_1**
 
