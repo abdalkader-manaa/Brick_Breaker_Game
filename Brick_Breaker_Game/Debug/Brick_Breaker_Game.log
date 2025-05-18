@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+C:\Users\Windows-OS\Desktop\Brick_Breaker_Game\Brick_Breaker_Game\FileName.cpp(36,58): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Windows-OS\Desktop\Brick_Breaker_Game\Brick_Breaker_Game\FileName.cpp(36,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Windows-OS\Desktop\Brick_Breaker_Game\Brick_Breaker_Game\FileName.cpp(93,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Brick_Breaker_Game.vcxproj -> C:\Users\Windows-OS\Desktop\Brick_Breaker_Game\Debug\Brick_Breaker_Game.exe
